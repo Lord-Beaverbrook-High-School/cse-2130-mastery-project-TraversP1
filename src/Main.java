@@ -35,14 +35,14 @@ public class Main {
         }
     }
 }
-/* tests
+/* Tests
 
 
-debuggs
-Scanner
+Debuggs
 
 
-notes
-I pretty much coppied off of w3schools but I did learn a lot from it helping me to grasp the concept better.
+
+Notes
+I pretty much coppied off of W3schools but I did learn a lot from it helping me to grasp the concept better.
 
  */
